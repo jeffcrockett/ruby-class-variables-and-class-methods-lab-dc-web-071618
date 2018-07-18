@@ -36,5 +36,3 @@ class Song
   end
 
 end
-one = Song.new('artist one', 'name one', 'genre')
-binding.pry
