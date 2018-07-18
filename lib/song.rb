@@ -41,4 +41,5 @@ class Song
       @@artist_count[artist] = @@artists.count(artist)
     end
     @@artist_count
+  end
 end
